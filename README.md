@@ -1,0 +1,2 @@
+# GTPracticum
+Practicum for GT 
